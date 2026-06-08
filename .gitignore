@@ -1,0 +1,14 @@
+## Build output
+bin/
+obj/
+x64/
+x86/
+out/
+
+## IDE
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
